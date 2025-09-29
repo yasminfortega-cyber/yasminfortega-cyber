@@ -2,7 +2,7 @@ Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gi
 
 Sou Yasmin Ortega, estou cursando o segundo ano, do Ensino Médio; faço curso de Desenvolvimento de Sistemas, na propria unidade de ensino. Atualmente trabalho na Defensoria Pública do Estado de São Paulo, como Estágiaria de Coordenação, de Nivel Medio.
 
-Linkedin: https://www.linkedin.com/in/yasmin-ortega/
+Linkedin: Badge](https://img.shields.io/badge/-yasmin%20Bernardes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasmin-ortega/)](https://www.linkedin.com/in/yasmin-ortega/)
 Instagram: ya_fg_ortega4
 Email: yasminfortega@gmail.com
 
